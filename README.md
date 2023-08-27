@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tuğrul Eskinöz</h1>
+<h1 align="center">Hı, I'm Tuğrul Eskinöz</h1>
 <h3 align="center">A Student at Hacettepe University Computer Engineering</h3>
 
 - 🔭 I’m currently working on **Space Troopers**
