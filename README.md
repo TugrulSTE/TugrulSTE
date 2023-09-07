@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Tuğrul Eskinöz</h1>
 <h3 align="center">A Student at Hacettepe University Computer Engineering</h3>
 
-- 🔭 I’m currently working on **Space Troopers**
+- 🔭 I’m currently working in **Space Troopers**
 
-- 🌱 I’m currently learning **Robotic Autonomous Systems (ROS)**
+- 🌱 I’m currently learning **Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
