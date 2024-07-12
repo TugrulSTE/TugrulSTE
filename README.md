@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Tuğrul Eskinöz</h1>
 <h3 align="center">A Student at Hacettepe University Computer Engineering</h3>
 
-- 🔭 I worked with **ACM Hacettepe R&D**
-
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
