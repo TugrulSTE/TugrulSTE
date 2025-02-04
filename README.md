@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Tuğrul Eskinöz</h1>
-<h3 align="center">A Student at Hacettepe University Computer Engineering</h3>
+<h3 align="center">2nd Year Student at Hacettepe University Computer Engineering</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Backend Development with Spring Boot** and **Mobile Development with Flutter**
+- 🔭 I'm interested in **Embedded Systems** and **Computer Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
