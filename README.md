@@ -1,3 +1,4 @@
+<h1 align="center">I am Tuğrul Eskinöz</h1>
 <h3 align="center">3rd Year Student at Hacettepe University Computer Engineering</h3>
 
 - 🔭 I’m currently working on **STM32 / ESP32 Development, FreeRTOS fundamentals and System Programming Principles**
