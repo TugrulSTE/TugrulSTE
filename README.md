@@ -1,11 +1,12 @@
 <h1 align="center">I am Tuğrul Eskinöz</h1>
-<h3 align="center">3rd Year Student at Hacettepe University Computer Engineering</h3>
+<h3 align="center">4th Year Student at Hacettepe University Computer Engineering</h3>
 
-- 🔭 I’m currently working on **STM32 / ESP32 Development, FreeRTOS fundamentals and System Programming Principles**
+- 🥇 **Embedded Systems & Computer Architecture** are the fields that I am most passionate about.
+- 🔭 I’m currently working on **STM32 / ESP32 Development, Edge AI & Image Inferencing Analysis, Inter-Core Communication, Petalinux**
 
-- 💬 Experiences **I have hands-on experience with Python, Java, C++, OOP principles, and mobile development. I developed applications with Spring Boot and Flutter, focusing on clean architecture and state management.**
+- 💬 I have hands-on experience with C++, Java, OOP principles. I developed applications with Spring Boot and Flutter, focusing on clean architecture and state management. My main focus was embedded systems, including **FreeRTOS**, MCU Bare Metal Development, **Bootloader development** on STM32 and **Rocket Competition Software for TEKNOFEST**
 
-- ⚡ My Goal **My goal is to build real-world embedded solutions that integrate hardware and software, especially in high-reliability domains such as defense technologies.**
+- ⚡My goal is to build real-world embedded solutions that integrate hardware and software, especially in high-reliability domains.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
